@@ -1,5 +1,6 @@
 Kth Largest Element From Data Stream
 
+(This can be implemented with std::priority_queue or std::heap which std::greater passed in as a parameter when initializing them. That is easier but not as fun)
 
 Given an incoming stream of data, you need to find the kth largest element at each step.
 
